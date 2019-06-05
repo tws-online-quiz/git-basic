@@ -29,3 +29,7 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+## THIS IS BERIO RESULT
+1. I always find out the light from your eyes.
+2. There is no more beautiful things expect with you.
