@@ -1,2 +1,3 @@
 New content for step 4 (Create a new file)
 Update content for step 5
+Update content for step 6 on GitHub
