@@ -6,3 +6,8 @@ new abc
 
 edit on github:
 edit something
+
+difference between add, commit, push:
+add: add changes to staging aree
+commit: commit the changes that have been made
+push: push the changes to the remote repository
