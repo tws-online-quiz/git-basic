@@ -1,2 +1,5 @@
 original content:
 hello world
+
+new content:
+new abc
