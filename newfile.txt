@@ -1,1 +1,2 @@
 This is newfile.txt
+local repository has made some change.
